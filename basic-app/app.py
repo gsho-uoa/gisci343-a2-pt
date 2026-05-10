@@ -7,7 +7,6 @@ import geopandas as gpd
 import plotly.express as px
 from ipyleaflet import Marker, AwesomeIcon
 from ipywidgets import HTML
-from shiny import render
 from pathlib import Path
 
 APP_DIR = Path(__file__).parent
@@ -197,7 +196,7 @@ def server(input, output, session):
     @reactive.effect
     @reactive.event(input.reset)
     def _():
-        all_routes = sorted(patronage["Route No"].astype(str).unique().tolist())
+        
         ui.update_radio_buttons(
             "route",
             selected="All"
@@ -323,9 +322,6 @@ def server(input, output, session):
         if df.empty:
             fig = px.line(title="No patronage data for selected filters")
             return fig
-
-        df["Month"] = pd.to_datetime(df["Month"], format="%b %Y")
-        df=df.sort_values("Month")
     
 
         route_colours = {

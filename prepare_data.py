@@ -1,13 +1,12 @@
 import pandas as pd
 import geopandas as gpd
 from shapely.geometry import Point
+from pathlib import Path
 
-# -------------------
-# 1. Clean patronage data
-# -------------------
+BASE_DIR = Path("/Users/georgiashort/Desktop/GIS/A2/gisci343-a2-pt")
 
 df = pd.read_csv(
-    "data/auckland-transport-hourly-bus-boardings-2025-to-2026.csv",
+    BASE_DIR / "basic-app" / "data" / "auckland-transport-hourly-bus-boardings-2025-to-2026.csv",
     skiprows=10,
     header=0
 )
@@ -39,12 +38,12 @@ patronage_long = df.melt(
 
 patronage_long["Route No"] = patronage_long["Route No"].astype(str).str.strip()
 
-# -------------------
-# 2. Load spatial data
-# -------------------
 
-routes = gpd.read_file("data/BusService_1148991059056210830.gpkg")
-stops = gpd.read_file("data/BusService_-4169205071737169352.gpkg")
+BASE_DIR = Path("/Users/georgiashort/Desktop/GIS/A2/gisci343-a2-pt")
+DATA_DIR = BASE_DIR / "basic-app" / "data"
+
+routes = gpd.read_file(DATA_DIR / "BusService_1148991059056210830.gpkg")
+stops = gpd.read_file(DATA_DIR / "BusService_-4169205071737169352.gpkg")
 
 ikea = gpd.GeoDataFrame(
     {"name": ["IKEA Sylvia Park"]},
@@ -56,18 +55,11 @@ ikea_2193 = ikea.to_crs(2193)
 routes_2193 = routes.to_crs(2193)
 stops_2193 = stops.to_crs(2193)
 
-# -------------------
-# 3. Create 1 km buffer
-# -------------------
-
 ikea_buffer = ikea_2193.buffer(1000).iloc[0]
 
 routes_1km = routes_2193[routes_2193.intersects(ikea_buffer)].copy()
 stops_1km = stops_2193[stops_2193.intersects(ikea_buffer)].copy()
 
-# -------------------
-# 4. Match patronage routes to routes near IKEA
-# -------------------
 
 route_ids = routes_1km["ROUTENUMBER"].astype(str).str.strip()
 
@@ -80,10 +72,6 @@ before_months = ["Jul 2025", "Aug 2025", "Sep 2025", "Oct 2025", "Nov 2025"]
 patronage_ikea["Period"] = patronage_ikea["Month"].apply(
     lambda x: "Before IKEA" if x in before_months else "After IKEA"
 )
-
-# -------------------
-# 5. Add performance category
-# -------------------
 
 patronage_ikea[["min_target", "max_target"]] = (
     patronage_ikea["RPTP Revised Range"]
@@ -101,9 +89,6 @@ def classify(row):
 
 patronage_ikea["Performance"] = patronage_ikea.apply(classify, axis=1)
 
-# -------------------
-# 6. Closest stop to IKEA
-# -------------------
 
 stops_2193["distance_m"] = stops_2193.distance(ikea_2193.geometry.iloc[0])
 closest_stop = stops_2193.loc[stops_2193["distance_m"].idxmin()]
@@ -113,9 +98,6 @@ closest_stop_summary = pd.DataFrame({
     "distance_m": [round(closest_stop["distance_m"], 1)]
 })
 
-# -------------------
-# 7. Route area summary
-# -------------------
 
 route_area_summary = (
     patronage_ikea[["Route No", "Route Name", "Area"]]
@@ -131,20 +113,34 @@ area_counts = (
 
 area_counts.columns = ["Area", "Number of routes"]
 
-# -------------------
-# 8. Save clean outputs
-# -------------------
+df.to_csv(DATA_DIR / "patronage_clean.csv", index=False)
+patronage_long.to_csv(DATA_DIR / "patronage_long.csv", index=False)
+patronage_ikea.to_csv(DATA_DIR / "patronage_ikea.csv", index=False)
 
-df.to_csv("data/patronage_clean.csv", index=False)
-patronage_long.to_csv("data/patronage_long.csv", index=False)
-patronage_ikea.to_csv("data/patronage_ikea.csv", index=False)
+routes_1km.to_crs(4326).to_file(
+    DATA_DIR / "routes_1km.gpkg",
+    driver="GPKG"
+)
 
-routes_1km.to_crs(4326).to_file("data/routes_1km.gpkg", driver="GPKG")
-stops_1km.to_crs(4326).to_file("data/stops_1km.gpkg", driver="GPKG")
+stops_1km.to_crs(4326).to_file(
+    DATA_DIR / "stops_1km.gpkg",
+    driver="GPKG"
+)
 
-closest_stop_summary.to_csv("data/closest_stop_summary.csv", index=False)
-route_area_summary.to_csv("data/route_area_summary.csv", index=False)
-area_counts.to_csv("data/area_counts.csv", index=False)
+closest_stop_summary.to_csv(
+    DATA_DIR / "closest_stop_summary.csv",
+    index=False
+)
+
+route_area_summary.to_csv(
+    DATA_DIR / "route_area_summary.csv",
+    index=False
+)
+
+area_counts.to_csv(
+    DATA_DIR / "area_counts.csv",
+    index=False
+)
 
 print("Data preparation complete.")
 print("Routes near IKEA:", sorted(route_ids.unique()))
