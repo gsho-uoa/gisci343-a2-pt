@@ -1,0 +1,16 @@
+[project]
+name = "gisci343-a2-pt"
+version = "0.1.0"
+description = "Interactive public transport dashboard for GISCI 343 Assignment 2"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "shiny",
+    "shinywidgets",
+    "ipyleaflet",
+    "plotly",
+    "pandas",
+    "geopandas",
+    "jinja2",
+]

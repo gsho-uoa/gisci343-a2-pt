@@ -1,0 +1,1675 @@
+Route No,Route Name,RPTP Level of Service,RPTP Range,RPTP Revised Range,Area,Month,Boardings
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Jul 2025,26.0
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Jul 2025,22.9
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Jul 2025,20.5
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Jul 2025,15.4
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Jul 2025,14.1
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Jul 2025,6.8
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Jul 2025,2.6
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Jul 2025,17.8
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Jul 2025,15.0
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Jul 2025,22.7
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Jul 2025,6.4
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Jul 2025,6.4
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Jul 2025,8.9
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Jul 2025,12.3
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Jul 2025,5.1
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Jul 2025,18.1
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Jul 2025,13.4
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Jul 2025,23.4
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Jul 2025,14.6
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Jul 2025,12.6
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Jul 2025,10.0
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Jul 2025,3.4
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Jul 2025,16.1
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Jul 2025,17.1
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Jul 2025,20.8
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Jul 2025,22.7
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Jul 2025,20.4
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Jul 2025,10.3
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Jul 2025,15.2
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Jul 2025,20.7
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,27.6
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Jul 2025,35.7
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Jul 2025,13.8
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Jul 2025,22.8
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Jul 2025,19.6
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Jul 2025,31.9
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,27.2
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,25.4
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Jul 2025,24.6
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,25.3
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Jul 2025,58.8
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Jul 2025,58.3
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,30.7
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,28.2
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,35.7
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Jul 2025,53.6
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,40.9
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Jul 2025,15.3
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Jul 2025,16.5
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,40.1
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Jul 2025,18.4
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Jul 2025,21.9
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Jul 2025,14.0
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Jul 2025,
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Jul 2025,10.6
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Jul 2025,18.9
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Jul 2025,15.9
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Jul 2025,15.1
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Jul 2025,15.5
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Jul 2025,15.9
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Jul 2025,12.0
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Jul 2025,9.7
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Jul 2025,24.1
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Jul 2025,22.1
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Jul 2025,7.8
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Jul 2025,7.6
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Jul 2025,9.5
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Jul 2025,19.1
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Jul 2025,13.5
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Jul 2025,14.3
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Jul 2025,21.1
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Jul 2025,16.4
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Jul 2025,16.4
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Jul 2025,12.2
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Jul 2025,19.0
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Jul 2025,10.8
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Jul 2025,8.7
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Jul 2025,4.2
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Jul 2025,6.1
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Jul 2025,8.6
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Jul 2025,5.7
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Jul 2025,11.0
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Jul 2025,4.5
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Jul 2025,5.6
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Jul 2025,6.7
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Jul 2025,8.1
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Jul 2025,2.8
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Jul 2025,12.4
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Jul 2025,10.7
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Jul 2025,
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Jul 2025,15.6
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Jul 2025,16.5
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Jul 2025,23.1
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Jul 2025,16.9
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Jul 2025,20.7
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Jul 2025,13.1
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Jul 2025,15.3
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Jul 2025,20.0
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Jul 2025,41.5
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Jul 2025,2.7
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Jul 2025,17.7
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Jul 2025,24.1
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Jul 2025,29.5
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Jul 2025,29.7
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Jul 2025,29.2
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Jul 2025,23.4
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Jul 2025,19.9
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Jul 2025,17.4
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Jul 2025,
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Jul 2025,11.1
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Jul 2025,17.4
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Jul 2025,16.0
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Jul 2025,14.4
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Jul 2025,36.8
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Jul 2025,20.1
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Jul 2025,18.9
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Jul 2025,22.2
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Jul 2025,22.2
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Jul 2025,21.8
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Jul 2025,16.8
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Jul 2025,15.2
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Jul 2025,6.2
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Jul 2025,17.1
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Jul 2025,34.7
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Jul 2025,6.9
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Jul 2025,13.4
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Jul 2025,16.3
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Jul 2025,32.6
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Jul 2025,23.9
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Jul 2025,27.4
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Jul 2025,51.1
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Jul 2025,18.4
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Jul 2025,16.8
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Jul 2025,19.4
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Jul 2025,22.7
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Jul 2025,18.2
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Jul 2025,33.3
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Jul 2025,30.3
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Jul 2025,23.1
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Jul 2025,20.5
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Jul 2025,19.2
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Jul 2025,16.5
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Jul 2025,18.4
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Jul 2025,21.6
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Jul 2025,25.3
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Jul 2025,13.6
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Jul 2025,20.2
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Jul 2025,13.9
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Jul 2025,21.1
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Jul 2025,17.5
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Jul 2025,26.9
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Jul 2025,23.2
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Jul 2025,10.6
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Jul 2025,20.9
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Jul 2025,21.4
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Jul 2025,31.0
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Jul 2025,25.8
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Jul 2025,27.1
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Jul 2025,31.8
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Jul 2025,33.0
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Jul 2025,19.1
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Jul 2025,30.7
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Jul 2025,27.8
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Jul 2025,17.1
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Jul 2025,17.0
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Jul 2025,10.5
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Jul 2025,9.7
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Jul 2025,19.6
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Jul 2025,12.2
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Jul 2025,5.5
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Jul 2025,17.4
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Jul 2025,8.6
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Jul 2025,8.3
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Jul 2025,4.0
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Jul 2025,7.8
+999,Warkworth Loop,Local,,,North,Jul 2025,4.1
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Jul 2025,13.3
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Jul 2025,30.4
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Jul 2025,23.9
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Jul 2025,2.4
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Jul 2025,77.0
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Jul 2025,53.3
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Jul 2025,18.2
+QODTAK,AT Local,On Demand,,,South,Jul 2025,2.7
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Jul 2025,21.3
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Jul 2025,23.7
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Aug 2025,29.9
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Aug 2025,25.5
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Aug 2025,24.6
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Aug 2025,17.1
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Aug 2025,16.3
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Aug 2025,8.6
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Aug 2025,3.5
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Aug 2025,20.4
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Aug 2025,17.5
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Aug 2025,27.1
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Aug 2025,6.2
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Aug 2025,6.9
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Aug 2025,10.2
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Aug 2025,14.9
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Aug 2025,5.7
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Aug 2025,23.5
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Aug 2025,16.9
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Aug 2025,27.0
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Aug 2025,18.7
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Aug 2025,15.0
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Aug 2025,12.2
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Aug 2025,3.6
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Aug 2025,20.0
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Aug 2025,20.9
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Aug 2025,25.8
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Aug 2025,23.1
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Aug 2025,25.7
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Aug 2025,10.7
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Aug 2025,15.9
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Aug 2025,21.7
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,30.6
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Aug 2025,35.9
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Aug 2025,15.6
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Aug 2025,23.3
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Aug 2025,21.1
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Aug 2025,31.6
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,29.3
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,28.7
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Aug 2025,27.4
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,28.2
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Aug 2025,66.3
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Aug 2025,60.0
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,36.6
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,33.2
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,45.0
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Aug 2025,63.4
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,50.4
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Aug 2025,18.2
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Aug 2025,19.6
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,44.3
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Aug 2025,22.5
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Aug 2025,25.1
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Aug 2025,16.3
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Aug 2025,
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Aug 2025,12.8
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Aug 2025,22.7
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Aug 2025,18.4
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Aug 2025,19.3
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Aug 2025,17.9
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Aug 2025,18.9
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Aug 2025,15.2
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Aug 2025,13.0
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Aug 2025,24.6
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Aug 2025,25.9
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Aug 2025,9.1
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Aug 2025,8.5
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Aug 2025,10.6
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Aug 2025,22.1
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Aug 2025,15.8
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Aug 2025,16.8
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Aug 2025,23.4
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Aug 2025,20.7
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Aug 2025,17.7
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Aug 2025,14.8
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Aug 2025,22.4
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Aug 2025,12.4
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Aug 2025,9.4
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Aug 2025,5.2
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Aug 2025,7.6
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Aug 2025,9.6
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Aug 2025,8.1
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Aug 2025,14.0
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Aug 2025,6.6
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Aug 2025,7.9
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Aug 2025,8.2
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Aug 2025,9.6
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Aug 2025,3.5
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Aug 2025,13.5
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Aug 2025,11.6
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Aug 2025,
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Aug 2025,16.4
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Aug 2025,15.9
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Aug 2025,25.4
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Aug 2025,18.8
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Aug 2025,25.2
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Aug 2025,14.1
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Aug 2025,17.5
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Aug 2025,23.1
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Aug 2025,51.5
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Aug 2025,2.8
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Aug 2025,22.4
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Aug 2025,31.1
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Aug 2025,34.1
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Aug 2025,35.7
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Aug 2025,37.8
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Aug 2025,27.4
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Aug 2025,23.9
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Aug 2025,19.8
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Aug 2025,
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Aug 2025,11.5
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Aug 2025,19.1
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Aug 2025,20.1
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Aug 2025,17.1
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Aug 2025,42.9
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Aug 2025,23.0
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Aug 2025,21.6
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Aug 2025,26.1
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Aug 2025,24.8
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Aug 2025,24.0
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Aug 2025,20.1
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Aug 2025,18.1
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Aug 2025,7.6
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Aug 2025,20.1
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Aug 2025,36.0
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Aug 2025,7.4
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Aug 2025,14.6
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Aug 2025,16.5
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Aug 2025,36.6
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Aug 2025,26.5
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Aug 2025,29.6
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Aug 2025,61.7
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Aug 2025,19.4
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Aug 2025,19.0
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Aug 2025,22.6
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Aug 2025,24.7
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Aug 2025,19.7
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Aug 2025,36.3
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Aug 2025,36.4
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Aug 2025,28.6
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Aug 2025,25.2
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Aug 2025,22.9
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Aug 2025,19.7
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Aug 2025,22.4
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Aug 2025,23.1
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Aug 2025,28.8
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Aug 2025,16.0
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Aug 2025,24.0
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Aug 2025,16.2
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Aug 2025,24.1
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Aug 2025,19.8
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Aug 2025,30.5
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Aug 2025,26.7
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Aug 2025,12.3
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Aug 2025,25.6
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Aug 2025,26.5
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Aug 2025,36.5
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Aug 2025,29.8
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Aug 2025,30.4
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Aug 2025,35.3
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Aug 2025,34.7
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Aug 2025,22.0
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Aug 2025,33.2
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Aug 2025,29.4
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Aug 2025,20.5
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Aug 2025,20.0
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Aug 2025,11.9
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Aug 2025,11.5
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Aug 2025,23.3
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Aug 2025,14.1
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Aug 2025,5.7
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Aug 2025,21.2
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Aug 2025,9.8
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Aug 2025,8.1
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Aug 2025,4.7
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Aug 2025,8.3
+999,Warkworth Loop,Local,,,North,Aug 2025,4.9
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Aug 2025,15.2
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Aug 2025,31.9
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Aug 2025,26.1
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Aug 2025,1.6
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Aug 2025,81.4
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Aug 2025,66.3
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Aug 2025,22.5
+QODTAK,AT Local,On Demand,,,South,Aug 2025,3.4
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Aug 2025,23.3
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Aug 2025,28.2
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Sep 2025,26.3
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Sep 2025,23.9
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Sep 2025,17.9
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Sep 2025,15.0
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Sep 2025,15.7
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Sep 2025,8.0
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Sep 2025,3.8
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Sep 2025,18.6
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Sep 2025,16.1
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Sep 2025,24.8
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Sep 2025,6.9
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Sep 2025,7.0
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Sep 2025,9.7
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Sep 2025,14.5
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Sep 2025,5.1
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Sep 2025,21.0
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Sep 2025,15.3
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Sep 2025,24.7
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Sep 2025,16.3
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Sep 2025,13.8
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Sep 2025,12.1
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Sep 2025,4.1
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Sep 2025,17.6
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Sep 2025,18.7
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Sep 2025,23.2
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Sep 2025,22.3
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Sep 2025,21.3
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Sep 2025,11.4
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Sep 2025,17.0
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Sep 2025,21.3
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,28.0
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Sep 2025,37.0
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Sep 2025,15.5
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Sep 2025,23.5
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Sep 2025,20.1
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Sep 2025,30.9
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,27.5
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,25.4
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Sep 2025,25.8
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,26.6
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Sep 2025,61.0
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Sep 2025,54.9
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,32.5
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,30.6
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,37.0
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Sep 2025,55.8
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,42.3
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Sep 2025,16.3
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Sep 2025,16.8
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,40.3
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Sep 2025,19.8
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Sep 2025,21.4
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Sep 2025,14.8
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Sep 2025,
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Sep 2025,11.3
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Sep 2025,20.9
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Sep 2025,16.9
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Sep 2025,15.4
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Sep 2025,16.1
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Sep 2025,16.1
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Sep 2025,13.0
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Sep 2025,10.2
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Sep 2025,25.1
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Sep 2025,23.6
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Sep 2025,8.2
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Sep 2025,7.7
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Sep 2025,9.6
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Sep 2025,19.0
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Sep 2025,14.2
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Sep 2025,15.1
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Sep 2025,22.4
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Sep 2025,18.0
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Sep 2025,17.4
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Sep 2025,13.9
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Sep 2025,20.3
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Sep 2025,11.5
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Sep 2025,8.5
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Sep 2025,4.2
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Sep 2025,6.5
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Sep 2025,9.0
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Sep 2025,6.3
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Sep 2025,11.5
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Sep 2025,4.9
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Sep 2025,5.9
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Sep 2025,6.1
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Sep 2025,8.6
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Sep 2025,2.5
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Sep 2025,14.1
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Sep 2025,13.5
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Sep 2025,
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Sep 2025,18.8
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Sep 2025,18.6
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Sep 2025,24.0
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Sep 2025,18.4
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Sep 2025,23.1
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Sep 2025,13.6
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Sep 2025,17.3
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Sep 2025,20.9
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Sep 2025,44.8
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Sep 2025,2.2
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Sep 2025,18.7
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Sep 2025,26.9
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Sep 2025,30.9
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Sep 2025,32.1
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Sep 2025,31.6
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Sep 2025,25.0
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Sep 2025,21.8
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Sep 2025,17.5
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Sep 2025,
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Sep 2025,12.3
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Sep 2025,18.5
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Sep 2025,17.7
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Sep 2025,16.2
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Sep 2025,36.4
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Sep 2025,20.8
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Sep 2025,19.9
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Sep 2025,23.4
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Sep 2025,24.3
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Sep 2025,22.1
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Sep 2025,17.7
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Sep 2025,16.3
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Sep 2025,6.1
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Sep 2025,18.0
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Sep 2025,34.8
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Sep 2025,8.3
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Sep 2025,13.9
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Sep 2025,16.2
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Sep 2025,34.7
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Sep 2025,24.3
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Sep 2025,28.9
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Sep 2025,52.8
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Sep 2025,18.6
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Sep 2025,17.8
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Sep 2025,20.5
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Sep 2025,23.7
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Sep 2025,19.8
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Sep 2025,32.8
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Sep 2025,30.9
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Sep 2025,24.6
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Sep 2025,21.3
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Sep 2025,20.1
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Sep 2025,18.3
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Sep 2025,21.4
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Sep 2025,22.2
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Sep 2025,24.8
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Sep 2025,13.6
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Sep 2025,20.6
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Sep 2025,14.0
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Sep 2025,22.4
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Sep 2025,17.3
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Sep 2025,26.5
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Sep 2025,24.4
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Sep 2025,10.7
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Sep 2025,22.3
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Sep 2025,23.2
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Sep 2025,33.4
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Sep 2025,27.9
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Sep 2025,27.6
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Sep 2025,32.9
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Sep 2025,30.3
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Sep 2025,19.2
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Sep 2025,30.6
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Sep 2025,27.3
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Sep 2025,19.1
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Sep 2025,18.6
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Sep 2025,12.0
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Sep 2025,11.0
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Sep 2025,22.0
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Sep 2025,12.7
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Sep 2025,6.4
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Sep 2025,19.1
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Sep 2025,9.3
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Sep 2025,9.9
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Sep 2025,4.9
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Sep 2025,7.9
+999,Warkworth Loop,Local,,,North,Sep 2025,5.1
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Sep 2025,15.1
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Sep 2025,29.9
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Sep 2025,24.6
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Sep 2025,2.9
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Sep 2025,76.8
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Sep 2025,54.8
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Sep 2025,19.3
+QODTAK,AT Local,On Demand,,,South,Sep 2025,2.8
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Sep 2025,22.5
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Sep 2025,26.3
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Oct 2025,26.5
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Oct 2025,24.9
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Oct 2025,20.9
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Oct 2025,15.8
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Oct 2025,16.9
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Oct 2025,8.4
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Oct 2025,3.3
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Oct 2025,19.4
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Oct 2025,16.8
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Oct 2025,26.2
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Oct 2025,6.8
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Oct 2025,6.9
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Oct 2025,9.7
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Oct 2025,13.9
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Oct 2025,5.4
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Oct 2025,22.6
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Oct 2025,16.1
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Oct 2025,26.3
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Oct 2025,18.2
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Oct 2025,14.6
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Oct 2025,13.8
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Oct 2025,4.8
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Oct 2025,18.6
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Oct 2025,20.4
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Oct 2025,24.8
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Oct 2025,23.3
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Oct 2025,22.5
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Oct 2025,12.1
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Oct 2025,17.3
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Oct 2025,22.1
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,29.3
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Oct 2025,36.0
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Oct 2025,15.6
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Oct 2025,24.0
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Oct 2025,20.9
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Oct 2025,31.8
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,29.3
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,27.7
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Oct 2025,26.8
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,27.5
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Oct 2025,59.2
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Oct 2025,58.2
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,33.9
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,31.9
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,40.1
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Oct 2025,57.2
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,46.7
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Oct 2025,16.7
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Oct 2025,18.1
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,41.8
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Oct 2025,20.6
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Oct 2025,22.2
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Oct 2025,15.8
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Oct 2025,
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Oct 2025,12.5
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Oct 2025,21.8
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Oct 2025,18.0
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Oct 2025,16.8
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Oct 2025,16.9
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Oct 2025,16.6
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Oct 2025,13.7
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Oct 2025,11.6
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Oct 2025,24.8
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Oct 2025,24.9
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Oct 2025,8.3
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Oct 2025,8.0
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Oct 2025,10.0
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Oct 2025,20.5
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Oct 2025,15.1
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Oct 2025,15.9
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Oct 2025,22.6
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Oct 2025,19.9
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Oct 2025,17.8
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Oct 2025,14.3
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Oct 2025,20.3
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Oct 2025,12.3
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Oct 2025,9.0
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Oct 2025,4.4
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Oct 2025,6.8
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Oct 2025,9.5
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Oct 2025,7.1
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Oct 2025,13.2
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Oct 2025,6.2
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Oct 2025,6.8
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Oct 2025,7.1
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Oct 2025,9.6
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Oct 2025,2.7
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Oct 2025,15.8
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Oct 2025,14.8
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Oct 2025,42.5
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Oct 2025,20.4
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Oct 2025,19.1
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Oct 2025,24.2
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Oct 2025,18.5
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Oct 2025,23.2
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Oct 2025,13.9
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Oct 2025,16.8
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Oct 2025,21.4
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Oct 2025,47.8
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Oct 2025,3.2
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Oct 2025,18.9
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Oct 2025,28.2
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Oct 2025,31.5
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Oct 2025,33.7
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Oct 2025,35.3
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Oct 2025,25.7
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Oct 2025,22.2
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Oct 2025,19.0
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Oct 2025,
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Oct 2025,11.9
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Oct 2025,18.1
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Oct 2025,19.4
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Oct 2025,17.5
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Oct 2025,38.4
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Oct 2025,21.6
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Oct 2025,21.7
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Oct 2025,24.7
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Oct 2025,24.1
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Oct 2025,22.1
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Oct 2025,19.1
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Oct 2025,17.8
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Oct 2025,6.4
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Oct 2025,19.1
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Oct 2025,35.5
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Oct 2025,7.3
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Oct 2025,14.9
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Oct 2025,18.6
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Oct 2025,35.3
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Oct 2025,25.2
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Oct 2025,29.0
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Oct 2025,53.4
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Oct 2025,19.3
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Oct 2025,18.1
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Oct 2025,21.8
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Oct 2025,24.0
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Oct 2025,20.4
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Oct 2025,34.2
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Oct 2025,33.6
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Oct 2025,26.3
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Oct 2025,23.0
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Oct 2025,21.6
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Oct 2025,19.3
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Oct 2025,21.6
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Oct 2025,22.4
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Oct 2025,27.3
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Oct 2025,14.9
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Oct 2025,22.0
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Oct 2025,14.8
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Oct 2025,22.5
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Oct 2025,17.7
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Oct 2025,28.1
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Oct 2025,25.2
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Oct 2025,12.0
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Oct 2025,23.8
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Oct 2025,25.3
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Oct 2025,35.5
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Oct 2025,29.0
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Oct 2025,29.2
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Oct 2025,34.2
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Oct 2025,32.2
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Oct 2025,20.3
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Oct 2025,31.9
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Oct 2025,29.1
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Oct 2025,20.1
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Oct 2025,18.8
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Oct 2025,12.2
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Oct 2025,11.6
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Oct 2025,23.2
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Oct 2025,12.5
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Oct 2025,6.4
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Oct 2025,21.2
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Oct 2025,9.2
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Oct 2025,9.2
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Oct 2025,5.6
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Oct 2025,8.7
+999,Warkworth Loop,Local,,,North,Oct 2025,4.8
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Oct 2025,15.1
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Oct 2025,30.0
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Oct 2025,25.1
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Oct 2025,3.1
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Oct 2025,78.0
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Oct 2025,59.1
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Oct 2025,21.4
+QODTAK,AT Local,On Demand,,,South,Oct 2025,3.0
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Oct 2025,23.2
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Oct 2025,28.8
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Nov 2025,27.1
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Nov 2025,26.0
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Nov 2025,24.7
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Nov 2025,14.9
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Nov 2025,17.0
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Nov 2025,8.7
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Nov 2025,3.1
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Nov 2025,20.1
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Nov 2025,17.6
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Nov 2025,27.5
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Nov 2025,7.8
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Nov 2025,7.8
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Nov 2025,10.1
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Nov 2025,14.8
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Nov 2025,5.6
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Nov 2025,22.5
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Nov 2025,16.5
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Nov 2025,28.0
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Nov 2025,20.4
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Nov 2025,15.1
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Nov 2025,15.2
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Nov 2025,4.6
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Nov 2025,18.5
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Nov 2025,20.4
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Nov 2025,26.0
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Nov 2025,23.0
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Nov 2025,23.5
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Nov 2025,12.7
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Nov 2025,16.7
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Nov 2025,22.5
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,29.7
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Nov 2025,35.7
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Nov 2025,16.8
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Nov 2025,23.9
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Nov 2025,22.5
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Nov 2025,33.4
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,27.9
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,26.6
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Nov 2025,25.4
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,25.8
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Nov 2025,65.2
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Nov 2025,57.8
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,32.0
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,30.3
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,36.3
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Nov 2025,56.5
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,40.0
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Nov 2025,16.9
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Nov 2025,18.1
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,42.4
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Nov 2025,15.8
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Nov 2025,14.3
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Nov 2025,15.3
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Nov 2025,2.6
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Nov 2025,12.1
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Nov 2025,22.1
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Nov 2025,17.7
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Nov 2025,14.3
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Nov 2025,17.5
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Nov 2025,17.2
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Nov 2025,14.1
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Nov 2025,4.6
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Nov 2025,24.6
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Nov 2025,25.1
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Nov 2025,8.8
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Nov 2025,8.1
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Nov 2025,9.8
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Nov 2025,21.1
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Nov 2025,14.9
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Nov 2025,16.7
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Nov 2025,24.3
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Nov 2025,19.4
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Nov 2025,17.3
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Nov 2025,13.8
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Nov 2025,21.1
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Nov 2025,13.1
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Nov 2025,9.8
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Nov 2025,5.3
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Nov 2025,7.5
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Nov 2025,9.9
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Nov 2025,7.9
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Nov 2025,13.3
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Nov 2025,6.7
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Nov 2025,8.2
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Nov 2025,7.3
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Nov 2025,8.7
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Nov 2025,4.2
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Nov 2025,19.3
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Nov 2025,18.7
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Nov 2025,53.3
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Nov 2025,26.3
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Nov 2025,26.6
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Nov 2025,26.2
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Nov 2025,19.8
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Nov 2025,23.8
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Nov 2025,14.7
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Nov 2025,17.7
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Nov 2025,22.4
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Nov 2025,41.0
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Nov 2025,3.1
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Nov 2025,19.0
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Nov 2025,28.2
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Nov 2025,32.1
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Nov 2025,33.1
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Nov 2025,29.0
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Nov 2025,26.3
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Nov 2025,22.9
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Nov 2025,20.5
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Nov 2025,3.7
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Nov 2025,13.0
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Nov 2025,19.0
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Nov 2025,20.7
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Nov 2025,18.5
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Nov 2025,36.2
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Nov 2025,22.6
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Nov 2025,24.2
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Nov 2025,25.2
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Nov 2025,25.3
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Nov 2025,24.1
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Nov 2025,21.1
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Nov 2025,19.3
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Nov 2025,7.1
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Nov 2025,19.8
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Nov 2025,36.5
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Nov 2025,8.3
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Nov 2025,16.1
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Nov 2025,21.6
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Nov 2025,38.8
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Nov 2025,26.4
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Nov 2025,30.6
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Nov 2025,56.7
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Nov 2025,19.7
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Nov 2025,18.3
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Nov 2025,22.9
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Nov 2025,24.5
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Nov 2025,22.0
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Nov 2025,34.0
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Nov 2025,34.0
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Nov 2025,27.2
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Nov 2025,21.2
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Nov 2025,20.2
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Nov 2025,19.1
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Nov 2025,22.4
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Nov 2025,22.9
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Nov 2025,26.4
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Nov 2025,15.0
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Nov 2025,22.0
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Nov 2025,14.8
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Nov 2025,22.6
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Nov 2025,16.9
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Nov 2025,27.4
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Nov 2025,24.5
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Nov 2025,11.8
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Nov 2025,22.3
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Nov 2025,23.3
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Nov 2025,31.5
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Nov 2025,30.7
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Nov 2025,30.3
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Nov 2025,33.9
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Nov 2025,32.2
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Nov 2025,20.5
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Nov 2025,32.1
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Nov 2025,30.4
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Nov 2025,21.0
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Nov 2025,20.3
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Nov 2025,12.9
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Nov 2025,10.5
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Nov 2025,23.1
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Nov 2025,11.1
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Nov 2025,8.6
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Nov 2025,22.1
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Nov 2025,9.7
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Nov 2025,9.8
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Nov 2025,6.7
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Nov 2025,7.8
+999,Warkworth Loop,Local,,,North,Nov 2025,5.5
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Nov 2025,16.8
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Nov 2025,32.1
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Nov 2025,26.5
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Nov 2025,
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Nov 2025,80.1
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Nov 2025,48.4
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Nov 2025,20.3
+QODTAK,AT Local,On Demand,,,South,Nov 2025,3.0
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Nov 2025,28.3
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Nov 2025,28.7
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Dec 2025,20.8
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Dec 2025,23.0
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Dec 2025,20.5
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Dec 2025,12.9
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Dec 2025,13.3
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Dec 2025,6.5
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Dec 2025,2.7
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Dec 2025,17.4
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Dec 2025,15.2
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Dec 2025,17.5
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Dec 2025,7.1
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Dec 2025,5.2
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Dec 2025,8.9
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Dec 2025,13.4
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Dec 2025,4.3
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Dec 2025,18.1
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Dec 2025,12.6
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Dec 2025,24.8
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Dec 2025,15.8
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Dec 2025,13.1
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Dec 2025,12.0
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Dec 2025,5.7
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Dec 2025,14.0
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Dec 2025,17.1
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Dec 2025,21.2
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Dec 2025,19.0
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Dec 2025,16.7
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Dec 2025,11.7
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Dec 2025,14.8
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Dec 2025,18.4
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,26.9
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Dec 2025,32.2
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Dec 2025,11.6
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Dec 2025,19.1
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Dec 2025,19.6
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Dec 2025,25.0
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,24.4
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,21.2
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Dec 2025,21.2
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,21.4
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Dec 2025,52.7
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Dec 2025,45.1
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,27.9
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,25.9
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,28.9
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Dec 2025,42.8
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,32.5
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Dec 2025,13.3
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Dec 2025,14.1
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,36.6
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Dec 2025,13.0
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Dec 2025,11.2
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Dec 2025,13.4
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Dec 2025,2.6
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Dec 2025,10.1
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Dec 2025,18.2
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Dec 2025,15.5
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Dec 2025,10.2
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Dec 2025,14.0
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Dec 2025,13.0
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Dec 2025,11.2
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Dec 2025,3.5
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Dec 2025,21.8
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Dec 2025,19.1
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Dec 2025,7.8
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Dec 2025,6.7
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Dec 2025,8.6
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Dec 2025,15.8
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Dec 2025,12.6
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Dec 2025,11.9
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Dec 2025,19.3
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Dec 2025,13.6
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Dec 2025,12.7
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Dec 2025,11.3
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Dec 2025,17.0
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Dec 2025,10.5
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Dec 2025,7.6
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Dec 2025,3.1
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Dec 2025,5.6
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Dec 2025,9.3
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Dec 2025,5.9
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Dec 2025,10.0
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Dec 2025,5.5
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Dec 2025,4.5
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Dec 2025,3.9
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Dec 2025,8.2
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Dec 2025,4.6
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Dec 2025,22.3
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Dec 2025,23.1
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Dec 2025,65.8
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Dec 2025,32.5
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Dec 2025,34.7
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Dec 2025,22.9
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Dec 2025,17.2
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Dec 2025,21.2
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Dec 2025,12.5
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Dec 2025,14.7
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Dec 2025,17.4
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Dec 2025,33.8
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Dec 2025,15.4
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Dec 2025,15.8
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Dec 2025,21.2
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Dec 2025,25.7
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Dec 2025,26.0
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Dec 2025,21.8
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Dec 2025,19.7
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Dec 2025,20.0
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Dec 2025,15.7
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Dec 2025,4.3
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Dec 2025,12.6
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Dec 2025,18.1
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Dec 2025,16.5
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Dec 2025,14.8
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Dec 2025,29.7
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Dec 2025,19.5
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Dec 2025,19.1
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Dec 2025,18.6
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Dec 2025,22.5
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Dec 2025,21.0
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Dec 2025,15.4
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Dec 2025,15.1
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Dec 2025,5.5
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Dec 2025,14.3
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Dec 2025,26.1
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Dec 2025,8.9
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Dec 2025,13.9
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Dec 2025,19.7
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Dec 2025,30.2
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Dec 2025,21.6
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Dec 2025,27.0
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Dec 2025,36.5
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Dec 2025,16.5
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Dec 2025,15.8
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Dec 2025,18.0
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Dec 2025,19.9
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Dec 2025,19.4
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Dec 2025,28.4
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Dec 2025,20.6
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Dec 2025,18.2
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Dec 2025,14.6
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Dec 2025,15.4
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Dec 2025,14.3
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Dec 2025,17.6
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Dec 2025,19.3
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Dec 2025,20.8
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Dec 2025,10.5
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Dec 2025,18.3
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Dec 2025,12.4
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Dec 2025,18.7
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Dec 2025,13.1
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Dec 2025,21.2
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Dec 2025,21.9
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Dec 2025,8.7
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Dec 2025,17.6
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Dec 2025,19.4
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Dec 2025,24.4
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Dec 2025,24.0
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Dec 2025,24.6
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Dec 2025,27.9
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Dec 2025,27.4
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Dec 2025,15.9
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Dec 2025,26.6
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Dec 2025,25.4
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Dec 2025,16.5
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Dec 2025,17.9
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Dec 2025,11.8
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Dec 2025,10.2
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Dec 2025,19.1
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Dec 2025,8.8
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Dec 2025,7.3
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Dec 2025,13.0
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Dec 2025,9.4
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Dec 2025,11.6
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Dec 2025,8.1
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Dec 2025,6.1
+999,Warkworth Loop,Local,,,North,Dec 2025,4.4
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Dec 2025,16.0
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Dec 2025,29.7
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Dec 2025,23.5
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Dec 2025,
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Dec 2025,70.4
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Dec 2025,37.0
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Dec 2025,18.6
+QODTAK,AT Local,On Demand,,,South,Dec 2025,2.4
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Dec 2025,27.2
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Dec 2025,23.6
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Jan 2026,20.3
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Jan 2026,21.3
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Jan 2026,11.6
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Jan 2026,11.8
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Jan 2026,11.9
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Jan 2026,5.8
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Jan 2026,2.5
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Jan 2026,21.6
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Jan 2026,18.9
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Jan 2026,17.1
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Jan 2026,5.4
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Jan 2026,5.1
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Jan 2026,7.8
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Jan 2026,11.5
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Jan 2026,4.1
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Jan 2026,16.7
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Jan 2026,11.5
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Jan 2026,25.3
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Jan 2026,13.3
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Jan 2026,13.3
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Jan 2026,10.0
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Jan 2026,5.3
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Jan 2026,13.2
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Jan 2026,16.6
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Jan 2026,20.5
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Jan 2026,17.3
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Jan 2026,13.4
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Jan 2026,10.8
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Jan 2026,12.7
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Jan 2026,16.1
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,38.7
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Jan 2026,31.1
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Jan 2026,9.9
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Jan 2026,23.6
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Jan 2026,19.8
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Jan 2026,37.7
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,27.8
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,22.0
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Jan 2026,20.4
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,22.5
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Jan 2026,47.3
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Jan 2026,42.0
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,26.1
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,24.6
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,28.6
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Jan 2026,42.6
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,31.7
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Jan 2026,13.5
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Jan 2026,12.8
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,37.6
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Jan 2026,13.2
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Jan 2026,15.8
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Jan 2026,11.7
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Jan 2026,2.6
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Jan 2026,9.2
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Jan 2026,16.0
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Jan 2026,15.0
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Jan 2026,13.0
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Jan 2026,14.9
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Jan 2026,10.0
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Jan 2026,10.1
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Jan 2026,3.1
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Jan 2026,24.0
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Jan 2026,17.5
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Jan 2026,7.2
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Jan 2026,8.1
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Jan 2026,9.2
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Jan 2026,13.2
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Jan 2026,12.0
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Jan 2026,10.8
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Jan 2026,18.6
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Jan 2026,9.9
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Jan 2026,12.8
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Jan 2026,9.0
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Jan 2026,14.1
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Jan 2026,9.2
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Jan 2026,7.3
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Jan 2026,2.1
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Jan 2026,4.0
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Jan 2026,9.2
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Jan 2026,4.7
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Jan 2026,7.9
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Jan 2026,3.6
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Jan 2026,2.5
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Jan 2026,2.9
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Jan 2026,5.9
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Jan 2026,3.5
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Jan 2026,26.3
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Jan 2026,25.0
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Jan 2026,65.0
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Jan 2026,35.7
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Jan 2026,37.5
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Jan 2026,22.9
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Jan 2026,17.4
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Jan 2026,20.2
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Jan 2026,12.9
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Jan 2026,15.8
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Jan 2026,14.7
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Jan 2026,48.0
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Jan 2026,2.9
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Jan 2026,13.9
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Jan 2026,17.5
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Jan 2026,22.3
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Jan 2026,22.1
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Jan 2026,32.4
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Jan 2026,18.3
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Jan 2026,17.9
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Jan 2026,14.2
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Jan 2026,3.6
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Jan 2026,11.9
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Jan 2026,19.9
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Jan 2026,16.8
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Jan 2026,13.3
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Jan 2026,30.9
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Jan 2026,17.3
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Jan 2026,18.8
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Jan 2026,22.2
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Jan 2026,23.3
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Jan 2026,21.4
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Jan 2026,14.7
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Jan 2026,12.5
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Jan 2026,4.8
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Jan 2026,15.1
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Jan 2026,27.9
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Jan 2026,8.4
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Jan 2026,13.7
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Jan 2026,20.2
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Jan 2026,30.6
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Jan 2026,23.3
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Jan 2026,25.2
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Jan 2026,37.6
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Jan 2026,18.0
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Jan 2026,13.8
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Jan 2026,17.2
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Jan 2026,18.6
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Jan 2026,18.2
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Jan 2026,30.4
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Jan 2026,22.5
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Jan 2026,16.5
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Jan 2026,13.5
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Jan 2026,15.1
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Jan 2026,13.3
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Jan 2026,16.7
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Jan 2026,19.2
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Jan 2026,20.4
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Jan 2026,9.8
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Jan 2026,17.3
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Jan 2026,11.6
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Jan 2026,17.0
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Jan 2026,13.6
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Jan 2026,21.0
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Jan 2026,19.8
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Jan 2026,8.2
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Jan 2026,16.6
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Jan 2026,18.0
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Jan 2026,23.0
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Jan 2026,21.5
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Jan 2026,24.7
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Jan 2026,27.1
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Jan 2026,25.9
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Jan 2026,15.9
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Jan 2026,24.0
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Jan 2026,22.8
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Jan 2026,16.2
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Jan 2026,15.7
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Jan 2026,11.2
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Jan 2026,9.8
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Jan 2026,17.4
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Jan 2026,8.1
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Jan 2026,6.6
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Jan 2026,12.2
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Jan 2026,8.1
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Jan 2026,9.4
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Jan 2026,4.7
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Jan 2026,6.0
+999,Warkworth Loop,Local,,,North,Jan 2026,4.4
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Jan 2026,12.6
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Jan 2026,27.5
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Jan 2026,24.7
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Jan 2026,
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Jan 2026,64.4
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Jan 2026,38.3
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Jan 2026,18.9
+QODTAK,AT Local,On Demand,,,South,Jan 2026,2.1
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Jan 2026,28.6
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Jan 2026,32.1
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Feb 2026,31.2
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Feb 2026,31.3
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Feb 2026,26.1
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Feb 2026,16.4
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Feb 2026,17.2
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Feb 2026,8.8
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Feb 2026,3.2
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Feb 2026,23.9
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Feb 2026,21.0
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Feb 2026,27.4
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Feb 2026,6.4
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Feb 2026,6.3
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Feb 2026,10.7
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Feb 2026,16.1
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Feb 2026,6.6
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Feb 2026,25.8
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Feb 2026,19.4
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Feb 2026,29.2
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Feb 2026,21.7
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Feb 2026,16.6
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Feb 2026,14.0
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Feb 2026,4.2
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Feb 2026,20.5
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Feb 2026,21.7
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Feb 2026,28.9
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Feb 2026,23.6
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Feb 2026,26.1
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Feb 2026,14.5
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Feb 2026,17.4
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Feb 2026,23.8
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,35.7
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Feb 2026,43.2
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Feb 2026,19.6
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Feb 2026,26.8
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Feb 2026,25.2
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Feb 2026,31.1
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,29.2
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,28.7
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Feb 2026,27.9
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,27.3
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Feb 2026,64.2
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Feb 2026,65.2
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,33.6
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,30.8
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,37.5
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Feb 2026,58.9
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,42.3
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Feb 2026,19.5
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Feb 2026,20.8
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,45.2
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Feb 2026,17.9
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Feb 2026,23.7
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Feb 2026,16.2
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Feb 2026,4.1
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Feb 2026,13.7
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Feb 2026,24.4
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Feb 2026,19.0
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Feb 2026,16.8
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Feb 2026,19.1
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Feb 2026,15.9
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Feb 2026,16.5
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Feb 2026,6.6
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Feb 2026,26.8
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Feb 2026,26.7
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Feb 2026,8.9
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Feb 2026,9.2
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Feb 2026,11.1
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Feb 2026,23.1
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Feb 2026,15.5
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Feb 2026,18.3
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Feb 2026,23.3
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Feb 2026,19.2
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Feb 2026,16.9
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Feb 2026,14.8
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Feb 2026,22.1
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Feb 2026,11.7
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Feb 2026,10.2
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Feb 2026,5.9
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Feb 2026,7.2
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Feb 2026,11.1
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Feb 2026,10.0
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Feb 2026,14.6
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Feb 2026,6.7
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Feb 2026,7.4
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Feb 2026,6.6
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Feb 2026,9.8
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Feb 2026,1.8
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Feb 2026,22.7
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Feb 2026,24.1
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Feb 2026,80.6
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Feb 2026,36.7
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Feb 2026,36.2
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Feb 2026,26.8
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Feb 2026,22.0
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Feb 2026,26.3
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Feb 2026,15.9
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Feb 2026,19.8
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Feb 2026,23.9
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Feb 2026,43.7
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Feb 2026,3.8
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Feb 2026,20.4
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Feb 2026,29.8
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Feb 2026,33.1
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Feb 2026,37.0
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Feb 2026,33.0
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Feb 2026,29.8
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Feb 2026,25.8
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Feb 2026,23.9
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Feb 2026,4.1
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Feb 2026,12.8
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Feb 2026,20.0
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Feb 2026,22.0
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Feb 2026,19.4
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Feb 2026,39.8
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Feb 2026,23.5
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Feb 2026,26.0
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Feb 2026,30.6
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Feb 2026,30.4
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Feb 2026,25.2
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Feb 2026,23.8
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Feb 2026,20.7
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Feb 2026,7.7
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Feb 2026,20.0
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Feb 2026,40.2
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Feb 2026,7.7
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Feb 2026,18.4
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Feb 2026,21.7
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Feb 2026,41.6
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Feb 2026,27.8
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Feb 2026,30.5
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Feb 2026,65.4
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Feb 2026,20.5
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Feb 2026,20.7
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Feb 2026,25.2
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Feb 2026,27.2
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Feb 2026,21.8
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Feb 2026,37.0
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Feb 2026,37.9
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Feb 2026,29.6
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Feb 2026,21.7
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Feb 2026,25.2
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Feb 2026,23.0
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Feb 2026,25.1
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Feb 2026,24.3
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Feb 2026,30.2
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Feb 2026,16.0
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Feb 2026,24.1
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Feb 2026,16.2
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Feb 2026,24.6
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Feb 2026,18.5
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Feb 2026,29.4
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Feb 2026,26.9
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Feb 2026,14.2
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Feb 2026,24.2
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Feb 2026,25.6
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Feb 2026,34.3
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Feb 2026,33.0
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Feb 2026,32.2
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Feb 2026,35.6
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Feb 2026,34.8
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Feb 2026,22.5
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Feb 2026,34.3
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Feb 2026,31.2
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Feb 2026,24.3
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Feb 2026,21.8
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Feb 2026,13.8
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Feb 2026,12.3
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Feb 2026,25.8
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Feb 2026,14.8
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Feb 2026,8.1
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Feb 2026,26.1
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Feb 2026,10.2
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Feb 2026,8.1
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Feb 2026,5.3
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Feb 2026,9.0
+999,Warkworth Loop,Local,,,North,Feb 2026,5.7
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Feb 2026,18.2
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Feb 2026,37.3
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Feb 2026,29.3
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Feb 2026,
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Feb 2026,86.6
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Feb 2026,51.9
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Feb 2026,25.5
+QODTAK,AT Local,On Demand,,,South,Feb 2026,3.1
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Feb 2026,30.2
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Feb 2026,31.0
+101,Pt Chevalier To Auckland University Via Jervois Rd,Peak,27 - 37,24 - 33,Central,Mar 2026,37.2
+105,Westmere To Britomart Via Richmond Rd,Connector,17 - 27,15 - 24,Central,Mar 2026,32.0
+106,Freemans Bay Loop,Connector,07 - 17,06 - 15,Central,Mar 2026,27.9
+111,Royal Heights Loop,Local,07 - 17,06 - 15,West,Mar 2026,19.3
+112,Hob Pt Wharf To Northwest Via W Harbour,Connector,07 - 17,06 - 15,West,Mar 2026,17.6
+114,Hob Pt Wharf To Northwest Via Whenuapai,Local,07 - 17,06 - 15,West,Mar 2026,10.0
+116,West Hills Loop,Local,07 - 17,06 - 15,West,Mar 2026,3.4
+11T,Northwest To City Centre Via Triangle Rd,Frequent,17 - 27,15 - 24,West,Mar 2026,24.0
+11W,Northwest To City Centre Via Waimumu Rd,Frequent,17 - 27,15 - 24,West,Mar 2026,21.7
+12,Henderson to Constellation Station via Westgate,Frequent,17 - 27,15 - 24,West,Mar 2026,30.3
+122,Huapai North To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Mar 2026,7.2
+123,Huapai Triangle To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Mar 2026,7.4
+125,Helensville To Westgate Via Kumeu,Rural Township,07 - 17,06 - 15,West,Mar 2026,11.7
+126,Albany To Westgate Via Riverhead,Rural Township,07 - 17,06 - 15,West,Mar 2026,16.4
+128,Hibiscus Coast Station To Helensville,Rural Township,07 - 17,06 - 15,West,Mar 2026,6.8
+13,Te Atatu Peninsula Loop To Henderson,Frequent,17 - 27,15 - 24,West,Mar 2026,28.1
+135,Te Atatu (Totara Rd) To Henderson,Connector,07 - 17,06 - 15,West,Mar 2026,21.6
+14,Lincoln Rd To New Lynn Via Henderson,Frequent,17 - 27,15 - 24,West,Mar 2026,30.2
+143,Ranui to Henderson via Sturges Rd,Connector,07 - 17,06 - 15,West,Mar 2026,21.1
+145,Lincoln Rd To Henderson Via Western H,Connector,07 - 17,06 - 15,West,Mar 2026,17.5
+147,Waitakere Township To Henderson,Local,07 - 17,06 - 15,West,Mar 2026,14.6
+148,Ranui To Lincoln Rd,Local,07 - 17,06 - 15,West,Mar 2026,5.7
+149,Ranui To New Lynn Via Rosebank,Weekday Connector,17 - 27,15 - 24,West,Mar 2026,21.0
+152,Henderson to New Lynn via Sunnyvale and Glen Eden,Local,07 - 17,06 - 15,West,Mar 2026,22.9
+154,Henderson to New Lynn via Glen Eden,Connector,17 - 27,15 - 24,West,Mar 2026,29.4
+161,Brains Park to New Lynn,Local,07 - 17,06 - 15,West,Mar 2026,24.8
+162,Henderson to New Lynn via Glendene,Connector,17 - 27,15 - 24,West,Mar 2026,28.5
+170,Titirangi South to New Lynn,Local,07 - 17,06 - 15,West,Mar 2026,15.0
+171,Laingholm To New Lynn,Local,07 - 17,06 - 15,West,Mar 2026,16.4
+172,Glen Eden to New Lynn via Titirangi,Connector,07 - 17,06 - 15,West,Mar 2026,26.0
+18,New Lynn To City Centre Via Great North Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,35.8
+186,South Lynn Loop,Connector,17 - 27,15 - 24,West,Mar 2026,44.2
+191,Lynfield To New Lynn Via Blockhouse Bay And Avondale,Local,07 - 17,06 - 15,Central,Mar 2026,18.7
+195,New Lynn To City Centre Via Green Bay,Connector,17 - 27,15 - 24,West,Mar 2026,27.0
+20,St Lukes To Wynyard Quarter Via Kingsland,Frequent,17 - 27,15 - 24,Central,Mar 2026,24.8
+209,Titirangi to City Centre via Green Bay and New North Rd,Peak,27 - 37,24 - 33,West,Mar 2026,33.3
+22N,New Lynn To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,33.5
+22R,Rosebank Rd To City Centre Via New North Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,33.3
+24B,New Lynn And Blockhouse Bay To City Centre Via Sandringham R,Frequent,27 - 37,24 - 33,Central,Mar 2026,33.4
+24R,New Lynn To City Centre Via Sandingham Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,33.5
+252,Lynfield To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Mar 2026,68.9
+253,Blockhouse Bay To Civic Centre Via Dominion Rd,Peak,37 - 47,33 - 42,Central,Mar 2026,66.6
+25B,Blockhouse Bay To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,41.1
+25L,Lynfield To City Centre Via Dominion Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,36.3
+27H,Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,52.5
+27T,Three Kings To Britomart Via Mt Eden Rd,Peak,37 - 47,33 - 42,Central,Mar 2026,71.4
+27W,Waikowhai To Britomart Via Mt Eden Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,57.5
+295,Ellerslie Station To City Centre Via Royal Oak,Connector,17 - 27,15 - 24,Central,Mar 2026,21.5
+298,Onehunga To Sylvia Park Via Ellerslie,Local,07 - 17,06 - 15,Central,Mar 2026,21.0
+30,Onehunga To City Centre Via Manukau Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,46.6
+309,Mangere Town Centre To City Centre,Connector,17 - 27,15 - 24,South,Mar 2026,19.2
+309X,Mangere Town Centre To City Centre (Express),Peak,27 - 37,24 - 33,South,Mar 2026,26.1
+31,Mangere Town Centre To Botany Town Centre Via Otara,Frequent,17 - 27,15 - 24,South,Mar 2026,17.3
+311,Otahuhu Station to Otahuhu Station via Mangere Bridge,Connector,17 - 27,15 - 24,South,Mar 2026,4.2
+313,Mangere To Manukau Bus Station Via Papatoetoe,Connector,17 - 27,15 - 24,South,Mar 2026,14.9
+314,Ormiston To Middlemore Station Via Otara,Connector,17 - 27,15 - 24,South,Mar 2026,26.6
+32,Mangere Town Centre To Sylvia Park Via Otahuhu,Frequent,17 - 27,15 - 24,South,Mar 2026,18.2
+321,Middlemore Station To Britomart Via Greenlane Hospital,Local,17 - 27,15 - 24,Central,Mar 2026,24.4
+323,Otahuhu Station To Panmure Via Panama Rd,Connector,17 - 27,15 - 24,Central,Mar 2026,19.6
+324,Mangere Town Centre To Seaside Park Via Otahuhu,Local,07 - 17,06 - 15,South,Mar 2026,15.9
+325,Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,Connector,17 - 27,15 - 24,South,Mar 2026,16.9
+326,Mangere Town Centre To Otahuhu Station Via Tidal Road,Local,07 - 17,06 - 15,South,Mar 2026,7.0
+33,Papakura Interchange To Otahuhu Station Via Great South Rd,Frequent,17 - 27,15 - 24,South,Mar 2026,26.3
+35,Ormiston To Botany Via Chapel Rd,Frequent,17 - 27,15 - 24,South,Mar 2026,28.4
+351,Botany To Otahuhu Station Via Highbrook,Weekday Connector,07 - 17,06 - 15,South,Mar 2026,8.9
+352,Manukau Bus Station To Panmure Via East Tamaki,Peak,07 - 17,06 - 15,South,Mar 2026,9.4
+353,Manukau Bus Station To Botany Town Centre Via Preston Rd,Connector,07 - 17,06 - 15,South,Mar 2026,11.2
+355,Ormiston To Botany Via Mission Heights,Connector,17 - 27,15 - 24,South,Mar 2026,23.9
+36,Manukau to Onehunga via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Mar 2026,15.2
+361,Manurewa Interchange To Otara / Mit Via Mahia Rd,Connector,17 - 27,15 - 24,South,Mar 2026,18.8
+362,Weymouth To Manukau Bus Station Via Great South Rd,Connector,17 - 27,15 - 24,South,Mar 2026,25.3
+363,Manurewa Interchange To Wattle Downs Loop,Local,07 - 17,06 - 15,South,Mar 2026,21.6
+365,Papakura Interchange To Manukau Bus Station Via Porchester,Connector,17 - 27,15 - 24,South,Mar 2026,17.8
+366,Manurewa Interchange To Manukau Bus Station Via The Gardens,Connector,17 - 27,15 - 24,South,Mar 2026,16.0
+372,Papakura Shops To Keri Hill Loop,Connector,17 - 27,15 - 24,South,Mar 2026,22.9
+373,Red Hill To Papakura Shops,Local,07 - 17,06 - 15,South,Mar 2026,12.2
+376,Papakura Shops To Auranga Dr Via Drury,Connector,07 - 17,06 - 15,South,Mar 2026,11.5
+377,Pahurehure To Papakura Interchange,Connector,17 - 27,15 - 24,South,Mar 2026,6.2
+378,Papakura Shops To Karaka Harbourside Loop And Karaka Lakes,Connector,07 - 17,06 - 15,South,Mar 2026,8.2
+38,Airport To Onehunga Via Mangere Town Centre,Frequent,17 - 27,15 - 24,South,Mar 2026,10.7
+391,Pukekohe Northeast Loop,Connector,07 - 17,06 - 15,South,Mar 2026,10.7
+392,Pukekohe Northwest Loop,Connector,07 - 17,06 - 15,South,Mar 2026,15.0
+393,Pukekohe South Loop,Connector,07 - 17,06 - 15,South,Mar 2026,7.0
+394,Pukekohe Station To Papakura Station Via Paerata Rise,Connector,07 - 17,06 - 15,South,Mar 2026,8.3
+395,Waiuku To Papakura Interchange,Peak,07 - 17,06 - 15,South,Mar 2026,6.8
+396,Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,Rural Township,07 - 17,06 - 15,South,Mar 2026,10.3
+399,Port Waikato To Pukekohe Interchange Via Tuakau,Rural Township,,,South,Mar 2026,3.5
+501,Kennedy Point to Matiatia Wharf,Local,07 - 17,06 - 15,Waiheke Island,Mar 2026,20.2
+502,Rocky Bay to Matiatia Wharf,Connector,07 - 17,06 - 15,Waiheke Island,Mar 2026,18.9
+503,Matiatia Wharf To Oneroa,Local,17 - 27,15 - 24,Waiheke Island,Mar 2026,71.1
+50A,Onetangi (Seventh Ave) To Matiatia Wharf,Frequent,17 - 27,15 - 24,Waiheke Island,Mar 2026,29.4
+50B,Onetangi (Fourth Ave) to Matiatia Wharf,Frequent,07 - 17,06 - 15,Waiheke Island,Mar 2026,29.3
+64,Newmarket To Kingsland Via Mt Eden And Valley Rd,Frequent,,,Central,Mar 2026,26.3
+65,Pt Chevalier To Glen Innes,Frequent,17 - 27,15 - 24,Central,Mar 2026,21.3
+66,Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,Frequent,17 - 27,15 - 24,Central,Mar 2026,28.6
+67A,New Lynn To Otahuhu Via Onehunga,Frequent,17 - 27,15 - 24,Central,Mar 2026,16.0
+67B,New Lynn To Onehunga Only,Frequent,07 - 17,06 - 15,Central,Mar 2026,18.3
+68,New Lynn To Onehunga Station,Frequent,17 - 27,15 - 24,Central,Mar 2026,24.3
+70,Botany To Britomart Via Panmure,Frequent,37 - 47,33 - 42,East,Mar 2026,56.9
+70H,Britomart To Howick And Botany Via Ellerslie And Panmure,Night,,,East,Mar 2026,3.5
+711,Howick To Panmure Via Cascades Road,Local,07 - 17,06 - 15,East,Mar 2026,24.2
+712,Bucklands Beach To Panmure,Connector,17 - 27,15 - 24,East,Mar 2026,34.8
+72C,"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",Frequent,27 - 37,24 - 33,East,Mar 2026,35.4
+72M,"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",Frequent,27 - 37,24 - 33,East,Mar 2026,37.7
+72X,Botany And Howick To Britomart Express Via Panmure And Motor,Peak,37 - 47,33 - 42,East,Mar 2026,44.7
+733,Botany To The Parade Via Highland Park,Local,07 - 17,06 - 15,East,Mar 2026,29.6
+734,Botany To Half Moon Bay Via Highland Park,Local,07 - 17,06 - 15,East,Mar 2026,25.7
+735,Botany To Half Moon Bay Via Cockle Bay And Howick,Local,07 - 17,06 - 15,East,Mar 2026,24.3
+738,Maraetai to Pine Harbour via Beachlands,Local,07 - 17,06 - 15,East,Mar 2026,4.4
+739,Maraetai And Beachlands To Botany Via Whitford And Ormiston,Local,07 - 17,06 - 15,East,Mar 2026,13.1
+74,Onehunga To Glen Innes Via Panmure,Frequent,17 - 27,15 - 24,Central,Mar 2026,20.1
+744,Panmure To St Heliers Via Glen Innes,Connector,17 - 27,15 - 24,Central,Mar 2026,22.3
+747,Panmure To Glen Innes Via Stonefields,Connector,17 - 27,15 - 24,Central,Mar 2026,20.1
+75,Glen Innes To Wynyard Quarter Via Remuera Rd,Frequent,27 - 37,24 - 33,Central,Mar 2026,48.8
+751,Panmure To Newmarket Via Marua Rd And Remuera Rd,Local,17 - 27,15 - 24,Central,Mar 2026,24.2
+755,Benson Rd To Britomart Via Portland Rd,Connector,17 - 27,15 - 24,Central,Mar 2026,27.2
+76,Glen Innes To Britomart Via Orakei,Frequent,17 - 27,15 - 24,Central,Mar 2026,31.2
+774,West Tamaki Rd To Britomart Via Long Dr And Tamaki Dr,Peak,27 - 37,24 - 33,Central,Mar 2026,30.7
+775,Glendowie To Britomart Via Tamaki Dr,Peak,27 - 37,24 - 33,Central,Mar 2026,27.0
+781,Mission Bay To Museum Via Orakei,Connector,17 - 27,15 - 24,Central,Mar 2026,22.4
+782,Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,Local,07 - 17,06 - 15,Central,Mar 2026,21.1
+783,Eastern Bays Circuit Clockwise,Local,07 - 17,06 - 15,Central,Mar 2026,7.8
+801,Bayswater Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Mar 2026,21.3
+802,Bayswater To City (Mayoral Dr),Peak,27 - 37,24 - 33,North,Mar 2026,43.1
+805,Devonport Wharf To Belmont Shops Via Ngataringa Rd,Local,07 - 17,06 - 15,North,Mar 2026,10.2
+806,Devonport Wharf To Stanley Pt Loop,Connector,07 - 17,06 - 15,North,Mar 2026,18.6
+807,Devonport Wharf To Cheltenham Loop,Connector,07 - 17,06 - 15,North,Mar 2026,21.6
+814,Devonport Wharf To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Mar 2026,42.0
+82,Milford To Mayoral Dr Via Takapuna,Frequent,27 - 37,24 - 33,North,Mar 2026,30.2
+83,Massey University To Takapuna Via Browns Bay,Frequent,17 - 27,15 - 24,North,Mar 2026,33.3
+842,Crown Hill To Smales Farm Station Via East Coast Rd,Peak,27 - 37,24 - 33,North,Mar 2026,71.4
+843,Constellation Station To Akoranga Station Via Takapuna,Connector,17 - 27,15 - 24,North,Mar 2026,21.1
+845,Milford To Takapuna Via North Shore Hospital,Local,07 - 17,06 - 15,North,Mar 2026,22.8
+856,Albany Station To Takapuna Via Beach Rd And Milford,Connector,17 - 27,15 - 24,North,Mar 2026,25.9
+861,Long Bay To Constellation Station Via Bush Rd,Connector,17 - 27,15 - 24,North,Mar 2026,31.0
+865,Browns Bay To Albany Station Via Oaktree Ave,Connector,17 - 27,15 - 24,North,Mar 2026,25.0
+866,Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Mar 2026,41.1
+871,Constellation Station To Takapuna Via Forrest Hill Rd,Connector,17 - 27,15 - 24,North,Mar 2026,40.5
+878,Browns Bay To Constellation Station Via and East Coast Rd,Connector,17 - 27,15 - 24,North,Mar 2026,31.4
+883,Schnapper Rock To Constellation Station,Connector,07 - 17,06 - 15,North,Mar 2026,25.7
+884,Constellation Station To NHIE Loop Anticlockwise,Weekday Connector,07 - 17,06 - 15,North,Mar 2026,27.2
+885,Constellation Station To NHIE Loop Clockwise,Weekday Connector,07 - 17,06 - 15,North,Mar 2026,24.3
+888,Albany Heights Loop,Connector,07 - 17,06 - 15,North,Mar 2026,32.1
+889,Albany Station To Constellation Station Via Hugh Green Dr,Connector,07 - 17,06 - 15,North,Mar 2026,25.3
+901,Smales Farm To Constellation Station Via Wairau Rd,Connector,07 - 17,06 - 15,North,Mar 2026,33.1
+902,Kyle Road To Constellation Station,Connector,07 - 17,06 - 15,North,Mar 2026,17.3
+906,Constellation To Smales Farm Via Windy Ridge And Archers Rd,Local,07 - 17,06 - 15,North,Mar 2026,25.2
+907,Campbells Bay To Constellation Station Via Sunnynook Station,Local,07 - 17,06 - 15,North,Mar 2026,17.9
+917,Birkenhead Wharf To Albany Station Via Glenfield Rd,Connector,17 - 27,15 - 24,North,Mar 2026,26.6
+923,Akoranga Station To City (Mayoral Dr) Via Hillcrest,Connector,17 - 27,15 - 24,North,Mar 2026,21.9
+924,Hillcrest To City (Mayoral Dr),Peak,17 - 27,15 - 24,North,Mar 2026,33.8
+926,Glenfield To Akoranga Station Via Hillcrest West,Connector,07 - 17,06 - 15,North,Mar 2026,26.7
+928,Northcote Point To Smales Farm Stn Via North Shore Hospital,Local,07 - 17,06 - 15,North,Mar 2026,14.1
+931,Chatswood To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Mar 2026,31.4
+933,Beach Haven Wharf To University Of Auckland Via Customs St,Local,17 - 27,15 - 24,North,Mar 2026,34.1
+939,Windy Ridge To University of Auckland Via Customs St,Peak,27 - 37,24 - 33,North,Mar 2026,44.0
+94,Beach Haven To Takapuna via Highbury And Northcote Shops,Frequent,17 - 27,15 - 24,North,Mar 2026,33.5
+941,Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,Connector,17 - 27,15 - 24,North,Mar 2026,32.7
+95B,Bayview To Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Mar 2026,39.0
+95C,Constellation Station To Britomart (Albert St) Via Glenfield,Frequent,27 - 37,24 - 33,North,Mar 2026,37.4
+966,Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,Weekday Connector,17 - 27,15 - 24,North,Mar 2026,24.0
+97B,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Mar 2026,36.5
+97R,Beach Haven to Britomart (Lower Albert St),Frequent,27 - 37,24 - 33,North,Mar 2026,33.0
+981,Waiwera To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Mar 2026,24.7
+982,Gulf Harbour To Hibiscus Coast Station,Connector,17 - 27,15 - 24,North,Mar 2026,23.4
+983,Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,Local,07 - 17,06 - 15,North,Mar 2026,14.1
+984,Orewa To Hibiscus Coast Station Via Maygrove,Local,07 - 17,06 - 15,North,Mar 2026,12.5
+985,Orewa To Hibiscus Coast Station Via Millwater,Connector,07 - 17,06 - 15,North,Mar 2026,26.9
+986,Hibiscus Coast Station To Albany Station Via Dariy Flat,Local,07 - 17,06 - 15,North,Mar 2026,15.1
+988,Gulf Harbour Ferry To The Plaza Via Army Bay,Local,07 - 17,06 - 15,North,Mar 2026,7.3
+989,Hibiscus Coast Station To Milldale Loop,Connector,07 - 17,06 - 15,North,Mar 2026,26.8
+995,Warkworth To Hibiscus Coast Station,Rural Township,07 - 17,06 - 15,North,Mar 2026,12.1
+996,Algies Bay To Warkworth Via Snells Beach,Rural Township,07 - 17,06 - 15,North,Mar 2026,9.6
+997,Warkworth To Omaha Via Matakana And Pt Wells,Rural Township,07 - 17,06 - 15,North,Mar 2026,5.5
+998,Wellsford To Warkworth,Rural Township,07 - 17,06 - 15,North,Mar 2026,9.1
+999,Warkworth Loop,Local,,,North,Mar 2026,5.1
+AIR,Airport Link Via Puhinui Station,Rapid,17 - 27,15 - 24,South,Mar 2026,17.6
+CTY,Wynyard Quarter to Karangahape Rd via Queen St,Frequent,27 - 37,24 - 33,Central,Mar 2026,38.0
+INN,Inner Link Anticlockwise,Frequent,27 - 37,24 - 33,Central,Mar 2026,29.2
+N10,"City To Otara Via Manukau Rd, Onehunga, Mangere, Papatoetoe",Night,,,South,Mar 2026,
+NX1,Albany Station To Britomart (Lower Albert St),Rapid,37 - 47,33 - 42,North,Mar 2026,91.7
+NX2,Hibiscus Coast Station To Auckland Universities,Rapid,37 - 47,33 - 42,North,Mar 2026,77.5
+OUT,St Lukes To Newmarket Via Wellesley St,Frequent,27 - 37,24 - 33,Central,Mar 2026,30.7
+QODTAK,AT Local,On Demand,,,South,Mar 2026,3.1
+TMK,Glen Innes To Britomart Via St Heliers And Tamaki Dr,Frequent,27 - 37,24 - 33,Central,Mar 2026,27.6
+WX1,Northwest To City Centre Via Motorway,Rapid,17 - 27,15 - 24,West,Mar 2026,36.8
