@@ -13,4 +13,5 @@ dependencies = [
     "pandas",
     "geopandas",
     "jinja2",
+    "shinylive",
 ]
