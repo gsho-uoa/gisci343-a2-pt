@@ -7,6 +7,7 @@ import geopandas as gpd
 import plotly.express as px
 from ipyleaflet import Marker, AwesomeIcon
 from ipywidgets import HTML
+from shiny import render
 
 # Load cleaned data
 patronage = pd.read_csv("data/patronage_ikea.csv")
@@ -36,10 +37,75 @@ app_ui = ui.page_fluid(
     ui.h3("IKEA Sylvia Park Public Transport Dashboard"),
 
     ui.p(
-        "This dashboard explores public transport patronage for bus routes serving IKEA Sylvia Park. "
-        "Use the filters to compare route demand before and after the IKEA opening."
+    "This dashboard examines bus routes serving IKEA Sylvia Park and compares patronage before and after the IKEA opening. "
+    "The map shows nearby bus routes and stops, the line chart shows monthly boardings per service hour, "
+    "and the table summarises the percentage change in average patronage after opening."
     ),
+    ui.tags.style("""
+        .shiny-input-radiogroup label {
+            border: 1px solid #2c3e50;
+            padding: 8px 14px;
+            margin: 3px;
+            border-radius: 2px;
+            background-color: white;
+            cursor: pointer;
+        }
 
+        .shiny-input-radiogroup input[type="radio"] {
+            display: none;
+        }
+
+        .shiny-input-radiogroup input[type="radio"]:checked + span {
+            font-weight: bold;
+            color: white;
+            background-color: #2c3e50;
+            padding: 8px 14px;
+            margin: -8px -14px;
+            display: inline-block;
+        }
+
+        .card {
+            box-shadow: 0 1px 4px rgba(0,0,0,0,0.08);
+            border-radius: 6px;
+        }
+
+        .card {
+            min-height: 40px;
+        }
+
+        .card {
+            margin-bottom: 10px;
+        }
+
+        .card-body {
+            padding: 10px;
+        }
+
+        .card-header {
+            padding: 6px 12px;
+            font-weight: bold;
+        }
+
+        h3 {
+            margin-bottom: 6px;
+        }
+
+        p {
+            margin-bottom: 6px;
+        }
+
+        .data-frame table {
+            text-align: center;
+        }
+
+        .data-frame th {
+            text-align: center !important;
+        }
+
+        .main {
+            padding-bottom: 10px
+        }
+    """),
     # Top filter bar
     ui.layout_columns(
     ui.card(
@@ -51,31 +117,35 @@ app_ui = ui.page_fluid(
             selected="All",
             inline=True
         ),
-        style="min-height: 90px;"
+        style="min-height: 115px;"
     ),
 
     ui.card(
         ui.card_header("Area"),
         ui.input_select("area", None, choices=area_choices, selected="All"),
-        style="min-height: 90px;"
+        style="min-height: 115px;"
     ),
 
     ui.card(
         ui.card_header("Period"),
         ui.input_select("period", None, choices=["All", "Before IKEA", "After IKEA"], selected="All"),
-        style="min-height: 90px;"
+        style="min-height: 115px;"
     ),
 
     ui.card(
         ui.card_header("Reset"),
         ui.input_action_button("reset", "Reset filters", width="100%"),
-        style="min-height: 90px;"
+        style="height: 115px;"
     ),
 
-    col_widths=(5, 3, 3, 1)
+    col_widths=(4, 3, 3, 2)
 ),
 
-    ui.output_text("summary"),
+    ui.card(
+        ui.card_body(
+            ui.output_text("summary")
+        )
+    ),
 
     # Main dashboard row
     ui.layout_columns(
@@ -92,8 +162,18 @@ app_ui = ui.page_fluid(
 
         ui.card(
             ui.card_header("Average patronage by route"),
-            ui.output_table("route_summary")
-        ),
+            ui.output_table("route_summary"),
+
+        ui.div(
+            ui.output_text("interpretation"),
+            style="""
+                font-size: 0.9rem;
+                color: #555;
+                margin-top: 12px;
+                line-height: 1.4;
+            """
+        )
+    ),
 
         col_widths=(4, 5, 3)
     ),
@@ -147,7 +227,7 @@ def server(input, output, session):
         distance = closest_stop["distance_m"].iloc[0]
 
         return (
-            f"Showing {df['Route No'].nunique()} route(s) and {len(df)} monthly records. "
+            f"{df['Route No'].nunique()} routes currently selected. "
             f"Average boardings per service hour: {avg:.2f}. "
             f"Closest stop to IKEA: {stop_name} ({distance} m)."
         )
@@ -258,17 +338,25 @@ def server(input, output, session):
             color_discrete_map=route_colours
         )
 
-        fig.add_vline(
-            x=pd.to_datetime("2025-12-01"),
-            line_dash="dash",
+        fig.add_shape(
+            type="line",
+            x0=pd.to_datetime("2025-12-01"),
+            x1=pd.to_datetime("2025-12-01"),
+            y0=0,
+            y1=1,
+            yref="paper",
+            line=dict(
+                dash="dash",
+                color="black"
+            )
         )
 
         fig.add_annotation(
             x=pd.to_datetime("2025-12-01"),
-            y=df["Boardings"].max(),
+            y=1,
+            yref="paper",
             text="IKEA opens",
-            showarrow=True,
-            arrowhead=2,
+            showarrow=False,
             yshift=10
         )
 
@@ -276,6 +364,7 @@ def server(input, output, session):
             xaxis_title="Month",
             yaxis_title="Boardings per service hour",
             legend_title="Route",
+            height=420,
         )
 
         return fig
@@ -295,7 +384,7 @@ def server(input, output, session):
             return pd.DataFrame({
                 "Message":["No data for selected filters"]
             })
-
+        
         summary = (
             df.groupby(["Route No","Period"])["Boardings"]
             .mean()
@@ -308,10 +397,30 @@ def server(input, output, session):
             columns="Period",
             values="Boardings"
         )
-        pivot["Change"] = (
-            pivot["After IKEA"] - pivot["Before IKEA"]
-        ).round(2)
+        percent_change = (
+            (pivot["After IKEA"] - pivot["Before IKEA"])
+            / pivot["Before IKEA"] 
+            * 100
+        ).round(1)
+        
+        pivot["Percent change"] = percent_change.apply(
+            lambda x: f"▲ {x}%" if x > 0 else f"▼ {x}%"
+        )
         pivot.columns.name = None
+
         return pivot.reset_index()
+
+    @render.text
+    def interpretation():
+
+        return (
+            "Routes 66 and 74 showed the strongest percentage increase "
+            "in patronage after the IKEA opening, while routes 32 and "
+            "298 declined slightly. Most routes serving IKEA Sylvia Park "
+            "are classified as Central Auckland routes, with limited direct "
+            "representation from other areas. Additional direct services, "
+            "such as routes from West Auckland, could improve accessibility "
+            "and may support stronger public transport patronage."
+        )
 
 app = App(app_ui, server)
