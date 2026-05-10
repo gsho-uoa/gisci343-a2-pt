@@ -8,12 +8,23 @@ import plotly.express as px
 from ipyleaflet import Marker, AwesomeIcon
 from ipywidgets import HTML
 from shiny import render
+from pathlib import Path
 
-# Load cleaned data
-patronage = pd.read_csv("data/patronage_ikea.csv")
-routes = gpd.read_file("data/routes_1km.gpkg").to_crs(4326)
-stops = gpd.read_file("data/stops_1km.gpkg").to_crs(4326)
-closest_stop = pd.read_csv("data/closest_stop_summary.csv")
+APP_DIR = Path(__file__).parent
+
+patronage = pd.read_csv(APP_DIR / "data" / "patronage_ikea.csv")
+
+routes = gpd.read_file(
+    APP_DIR / "data" / "routes_1km.gpkg"
+).to_crs(4326)
+
+stops = gpd.read_file(
+    APP_DIR / "data" / "stops_1km.gpkg"
+).to_crs(4326)
+
+closest_stop = pd.read_csv(
+    APP_DIR / "data" / "closest_stop_summary.csv"
+)
 
 # IKEA point and buffer for map
 ikea = gpd.GeoDataFrame(
