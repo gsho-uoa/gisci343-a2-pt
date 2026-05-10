@@ -42,6 +42,11 @@ app_ui = ui.page_sidebar(
     ),
 
     ui.h3("IKEA Sylvia Park Public Transport Dashboard"),
+    ui.p(
+    "This dashboard explores public transport patronage for bus routes serving IKEA Sylvia Park. "
+    "Use the route, area, and period filters to compare changes in boardings before and after the IKEA opening. "
+    "The map shows nearby bus routes and stops, while the chart tracks patronage trends over time."
+    ),
     ui.p("Use the filters to explore patronage patterns for bus routes serving the IKEA Sylvia Park area."),
     ui.h4("Average patronage by route"),
     ui.output_table("route_summary"),
