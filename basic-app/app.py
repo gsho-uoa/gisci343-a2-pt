@@ -31,28 +31,72 @@ ikea_buffer = gpd.GeoDataFrame(
 route_choices = ["All"] + sorted(patronage["Route No"].astype(str).unique())
 area_choices = ["All"] + sorted(patronage["Area"].dropna().unique())
 
-app_ui = ui.page_sidebar(
-    ui.sidebar(
-        ui.input_checkbox_group("route", "Route", choices=sorted(patronage["Route No"].astype(str).unique().tolist()),
-    selected=sorted(patronage["Route No"].astype(str).unique().tolist())
-),
-        ui.input_select("area", "Area", choices=area_choices),
-        ui.input_select("period", "Period", choices=["All", "Before IKEA", "After IKEA"]),
-        ui.input_action_button("reset", "Reset filters"),
-    ),
+app_ui = ui.page_fluid(
 
     ui.h3("IKEA Sylvia Park Public Transport Dashboard"),
+
     ui.p(
-    "This dashboard explores public transport patronage for bus routes serving IKEA Sylvia Park. "
-    "Use the route, area, and period filters to compare changes in boardings before and after the IKEA opening. "
-    "The map shows nearby bus routes and stops, while the chart tracks patronage trends over time."
+        "This dashboard explores public transport patronage for bus routes serving IKEA Sylvia Park. "
+        "Use the filters to compare route demand before and after the IKEA opening."
     ),
-    ui.p("Use the filters to explore patronage patterns for bus routes serving the IKEA Sylvia Park area."),
-    ui.h4("Average patronage by route"),
-    ui.output_table("route_summary"),
+
+    # Top filter bar
+    ui.layout_columns(
+    ui.card(
+        ui.card_header("Route"),
+        ui.input_radio_buttons(
+            "route",
+            None,
+            choices=["All", "298", "32", "323", "66", "74", "782"],
+            selected="All",
+            inline=True
+        ),
+        style="min-height: 90px;"
+    ),
+
+    ui.card(
+        ui.card_header("Area"),
+        ui.input_select("area", None, choices=area_choices, selected="All"),
+        style="min-height: 90px;"
+    ),
+
+    ui.card(
+        ui.card_header("Period"),
+        ui.input_select("period", None, choices=["All", "Before IKEA", "After IKEA"], selected="All"),
+        style="min-height: 90px;"
+    ),
+
+    ui.card(
+        ui.card_header("Reset"),
+        ui.input_action_button("reset", "Reset filters", width="100%"),
+        style="min-height: 90px;"
+    ),
+
+    col_widths=(5, 3, 3, 1)
+),
+
     ui.output_text("summary"),
-    output_widget("map"),
-    output_widget("chart"),
+
+    # Main dashboard row
+    ui.layout_columns(
+
+        ui.card(
+            ui.card_header("Patronage over time"),
+            output_widget("chart")
+        ),
+
+        ui.card(
+            ui.card_header("Bus routes and stops near IKEA"),
+            output_widget("map")
+        ),
+
+        ui.card(
+            ui.card_header("Average patronage by route"),
+            ui.output_table("route_summary")
+        ),
+
+        col_widths=(4, 5, 3)
+    ),
 
     title="IKEA Sylvia Park Transport Dashboard"
 )
@@ -63,9 +107,9 @@ def server(input, output, session):
     @reactive.event(input.reset)
     def _():
         all_routes = sorted(patronage["Route No"].astype(str).unique().tolist())
-        ui.update_checkbox_group(
+        ui.update_radio_buttons(
             "route",
-            selected=all_routes
+            selected="All"
         )
 
         ui.update_select(
@@ -83,10 +127,9 @@ def server(input, output, session):
 
         selected_routes = input.route()
 
-        if selected_routes:
-            df = df[df["Route No"].astype(str).isin(selected_routes)]
-        else:
-            df = df.iloc[0:0]
+        if selected_routes != "All":
+            df = df[df["Route No"].astype(str) == selected_routes]
+        
         if input.area() != "All":
             df = df[df["Area"] == input.area()]
 
@@ -114,12 +157,10 @@ def server(input, output, session):
         m = Map(center=(-36.91782, 174.84472), zoom=14)
 
         selected_routes=input.route()
-        if selected_routes:
-            map_routes=routes[
-                routes["ROUTENUMBER"].astype(str).isin(selected_routes)
-            ].copy()
+        if selected_routes == "All":
+            map_routes= routes.copy()
         else:
-            map_routes = routes.iloc[0:0].copy()
+            map_routes = routes[routes["ROUTENUMBER"].astype(str) == selected_routes].copy()
 
         ikea_marker = Marker(
             location=(-36.91782, 174.84472),
@@ -170,7 +211,8 @@ def server(input, output, session):
                 icon=AwesomeIcon(
                     name="bus",
                     marker_color="blue",
-                    icon_color="white"
+                    icon_color="white",
+                    icon_size=[20,20]
                 )
             )
             stop_marker.popup = HTML(
@@ -186,6 +228,14 @@ def server(input, output, session):
         df = filtered_patronage().copy()
         df["Month"] = pd.to_datetime(df["Month"], format="%b %Y")
         df = df.sort_values("Month")
+        
+        if df.empty:
+            fig = px.line(title="No patronage data for selected filters")
+            return fig
+
+        df["Month"] = pd.to_datetime(df["Month"], format="%b %Y")
+        df=df.sort_values("Month")
+    
 
         route_colours = {
             "298": "#636EFA",
@@ -233,7 +283,18 @@ def server(input, output, session):
     @render.table
     def route_summary():
 
-        df = filtered_patronage()
+        df = patronage.copy()
+
+        if input.route() != "All":
+            df = df[df["Route No"].astype(str) == input.route()]
+        
+        if input.area() != "All":
+            df = df[df["Area"] == input.area()]
+
+        if df.empty:
+            return pd.DataFrame({
+                "Message":["No data for selected filters"]
+            })
 
         summary = (
             df.groupby(["Route No","Period"])["Boardings"]
